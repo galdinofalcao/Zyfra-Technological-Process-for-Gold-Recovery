@@ -9,10 +9,10 @@ Zyfra develops efficiency solutions for heavy industry. The company aims to prep
 The project's objective is to build a model to help optimize the production and eliminate unprofitable parameters. The goal is to minime sMAPE, symmetric Mean Absolute Percentage Error. It is similar to MAE, but is expressed in relative values instead of absolute ones.   
 
 ## **Tools and Libraries:**
-Python: Use Python programming language for data cleaning, manipulation, and analysis.
-Pandas: Manipulate and preprocess the data efficiently.
-Matplotlib, Seaborn: Create visualizations and charts for data exploration and presentation.
-Scikit-Learn (Sklearn): Model training, cross-validation, evaluation, and selection.
+- Python: Use Python programming language for data cleaning, manipulation, and analysis.
+- Pandas: Manipulate and preprocess the data efficiently.
+- Matplotlib, Seaborn: Create visualizations and charts for data exploration and presentation.
+- Scikit-Learn (Sklearn): Model training, cross-validation, evaluation, and selection.
 
 ## **Data Documentation:**
 The dataset contains the training and test sets with all the features. The information given is as follows:
