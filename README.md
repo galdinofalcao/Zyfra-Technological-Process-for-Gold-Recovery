@@ -1,7 +1,5 @@
 # Zyfra-Technological-Process-for-Gold-Recovery
 
-## ***Machine Learning Project***
-
 ## **Description of the Problem:**
 Zyfra develops efficiency solutions for heavy industry. The company aims to prepare a prototype of a machine learning model to predict the amount of gold recovered from gold ore.
 
